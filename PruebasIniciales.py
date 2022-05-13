@@ -1,4 +1,8 @@
 # Esto es un comentario
+# Para Crear Ejecutables en Python se debe instalar el pyinstaller
+# Linea de comando: pip install pyinstaller
+# Luego pyinstaller --windowed --icon= x.ico --onefile x.py
+
 
 # Se pueden usar comillas simples y dobles
 print ("Hola Mundo")
